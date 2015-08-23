@@ -25,7 +25,7 @@
         for(int i = 0; i < qttyButtons; ++i){
             buttons[i].setFont(font);
             buttons[i].setTexture("res/pics/buttons/button.png");
-            buttons[i].setPressedTexture("res/pics/buttons/button.png");
+            buttons[i].setPressedTexture("res/pics/buttons/buttonPres.png");
             buttons[i].setText(buttonNames[i]);
             buttons[i].setSize(buttonSize.x, buttonSize.y);
             buttons[i].setPosition(buttonSize.x*(i+1), buttonSize.y*3-buttonSize.y/2);

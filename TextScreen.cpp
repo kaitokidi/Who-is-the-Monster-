@@ -48,7 +48,6 @@
             }
 
             window->draw(t);
-
             window->display();
             window->clear();
         }
@@ -103,6 +102,7 @@
                     break;
                 }
             }
+            window->clear();
             window->draw(t);
             window->display();
                 
@@ -137,7 +137,9 @@
                     break;
                 }
             }
+            window->clear();
             window->draw(t);
+           
         }
     }
     

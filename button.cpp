@@ -116,8 +116,8 @@ bool Button::clickEffectActivated(){ return clickEffect; }
 void Button::handleEvent(sf::Event e){
     
     float delayx, delayy;
-    delayx = sprite.getGlobalBounds().width/2;
-    delayy = sprite.getGlobalBounds().height/2;
+    delayx = sprite.getOrigin().x*sprite.getScale().x;
+    delayy = sprite.getOrigin().y*sprite.getScale().y;
     sprite.move(-delayx, -delayy);
     if(e.type == sf::Event::MouseButtonPressed){
         if (e.mouseButton.button == sf::Mouse::Left) {

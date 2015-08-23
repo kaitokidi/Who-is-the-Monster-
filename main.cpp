@@ -23,7 +23,7 @@ namespace kind {
 }
 
 std::vector < std::vector<std::string> > frases (kind::qttyKinds);
-
+//THIS IS NOT BEAUTIFULL BUT I NEED IT FOR ANDROID VERSION T.T
 void loadFrases(){
 frases[kind::party].push_back("Serve a drink to the one who accussed you");
 frases[kind::party].push_back("Sing a song for us");
@@ -228,7 +228,7 @@ int main(int argc, const char* argv[]){
     portada.notAnimation();
     portada.display(&window, "res/pics/whoisthemonster.jpg");
     //Credits
-    portada.display(&window, "res/pics/credits.png");
+     portada.display(&window, "res/pics/credits.png");
     
     //Rules
     portada.animation();
