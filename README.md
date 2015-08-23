@@ -1,5 +1,10 @@
-# Who-is-the-Monster- is a game made by Genís Bayona, with help of Cristina Raluca Vijulie, and graphics made by Xevi Bayona
-Ludum Dare 33, funny game to play while you are on a social meeting, a party or anywhere with friends
+# Who-is-the-Monster- Ludum Dare 33
+
+funny game to play while you are on a social meeting, a party or anywhere with friends
+
+Who is the Monster is a social game made by Genís Bayona, with help of Cristina Raluca Vijulie, and graphics made by Xevi Bayona but another the good kind of social games which means party, laughts and happiness.
+
+RULES:
 
 There is a monster between us, and we must hunt it 
 
@@ -26,3 +31,6 @@ If someone is acused of being a monster, he/she will have to pass a test to demo
 
 The test will be chosen by this game using a sofisticated method of randomly picked "truth or dare" actions, 
 but you can play it even without this game using your own tests.
+
+Be respectfull, remember that the monster is only a joke, we all are humans, enjoy it, and have fun!
+Hope you might like it!
