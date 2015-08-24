@@ -2,7 +2,7 @@
 
 funny game to play while you are on a social meeting, a party or anywhere with friends
 
-Who is the Monster is a social game made by Genís Bayona, with help of Cristina Raluca Vijulie, and graphics made by Xevi Bayona but another the good kind of social games which means party, laughts and happiness.
+"Who is the Monster?" is a social game made by Genís Bayona, with help of Cristina Raluca Vijulie, and part of the graphics made by Xevi Bayona. But it is not a facebook game but another kind of social games which means party, laughts and happiness, it does not ment to be an activity by itself but to provide a source of fun in addition to the real life.
 
 RULES:
 
