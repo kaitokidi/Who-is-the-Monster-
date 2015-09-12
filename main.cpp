@@ -222,6 +222,8 @@ int main(int argc, const char* argv[]){
     sf::Vector2f screenSize = sf::Vector2f(window.getSize().x,window.getSize().y);    
     float deltatime = 0;
     
+    window.setVerticalSyncEnabled(true);
+    window.setFramerateLimit(60);
     Portada portada;
     
     //Cover
